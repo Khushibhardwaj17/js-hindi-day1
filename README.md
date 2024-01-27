@@ -1,2 +1,2 @@
-# js-hindi-day1
+# js-files
 A code repo for javascript series day1
